@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ProcessResourcesBug"
 include ':app'
+include ':mylibrary'
+include ':runtimeLib'

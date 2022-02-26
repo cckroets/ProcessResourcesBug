@@ -14,6 +14,7 @@
         <!-- Customize your theme here. -->
         <item name="myColorTextBrand">@color/black</item>
         <item name="myColorTextPrimary">@color/black</item>
+        <item name="myColorText3">@color/black</item>
     </style>
 
     <style name="Theme.ProcessResourcesBug.NoActionBar">

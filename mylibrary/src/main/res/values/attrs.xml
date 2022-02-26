@@ -2,4 +2,5 @@
 <resources>
     <attr name="myColorTextBrand" format="reference"/>
     <attr name="myColorTextPrimary" format="reference"/>
+    <attr name="myColorText3" format="reference"/>
 </resources>
